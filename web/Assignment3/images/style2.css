@@ -1,0 +1,23 @@
+.middle{
+    width: 60%;
+    height: 140px;
+    background-color: rgb(245 245 245);
+    margin: 0 auto ;
+}
+.box{
+    width: 100px;
+    display: inline-block;
+    height: 140px;
+    /* border-left: 1px solid black;
+    */
+    padding: 0  50px;
+    border-right: 1px solid black; 
+}
+.box img{
+  
+}
+#box1{
+    border-left: 1px solid black;
+    margin-left: 120px;
+
+}

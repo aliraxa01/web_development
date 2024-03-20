@@ -1,0 +1,118 @@
+.design{
+    /* border-color: black; */
+    background-color: rgb(228, 193, 22);
+    /* border-style: solid; */
+    width: 800px;
+    height: 600px;
+}
+
+.design1{
+    background-color: white;
+    width: 800px;
+    height: 130px;
+    
+}
+.design1 img{
+    width: 266.5px;
+    height: 130px;
+    float: left;
+}
+h1{
+    margin-left: 50px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.design2{
+    background-color: rgb(226, 149, 6);
+    width: 200px;
+    height: 165px;
+    display: inline-block;
+    margin-left: 50px;
+    float: left;
+}
+.design2 p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 145px;
+    margin-left: 10px;
+}
+.design3{
+    display: inline-block;
+}
+.design4{
+    background-color: rgba(158, 150, 126, 0.429);
+    width: 70px;
+    height: 70px;
+    margin-left: 50px; 
+    opacity: 80%;  
+}
+.design5{
+    background-color: rgb(233, 228, 206);
+    width:550px;
+    height: 10px;
+    margin-left: 100px;
+    margin-top: 120px;
+    border-radius: 20px;
+
+}
+.design6{
+    background-color:#ee9c02;
+    width:150px;
+    height: 10px;
+    margin-left: 140px;
+    margin-top: 120px;
+    border-radius: 20px;
+}
+.div{
+    border-color: #494949;
+    border-style: solid;
+    background-color: #4a4a4a;
+    width: 795px;
+    height: 500px;
+}
+.div h1{
+    color: #d9c466;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+.div img{
+    margin-left: 25px;
+    width: 500px;
+    float: left;
+}
+.div li{
+    margin-top:50px ;
+    color: #96948c;
+}
+.div1{
+    border-color: black;
+    border-style: solid;
+    margin-top: 60px;
+    width: 790px;
+}
+
+.div1 img{
+    width: 30px;
+    height: auto;
+    margin-top: 7px;
+}
+.div p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.date {
+    margin: 0 18px;
+    color: white;
+    font-size: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.month{
+    font-size: 12px;
+    margin: 0 18px;
+    display: inline-block;
+    color: brown;
+    text-align: center;
+}
+

@@ -1,0 +1,32 @@
+.main image{
+    width: 800px;
+    height: 300px;
+}
+.main2{
+    width: 400px;
+    height: 50px;
+    margin-top: 250px;
+    margin-left: 500px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:#665149;
+}
+.main2 ul li{
+    color: white;
+    display:inline-block ;
+    font-size: 25px;
+}
+.main3{
+    width: 400px;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 500px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:#665149;
+}
+.main3 h1{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}

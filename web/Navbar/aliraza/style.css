@@ -1,0 +1,41 @@
+.main li {
+    list-style-type: none;
+}
+
+.main li {
+    float: left;
+}
+.nested li{
+    float: none;
+}
+.main li a {
+    color: black;
+    padding: 20px ;
+    text-decoration: none;
+}
+.main li .nested {
+    display: none;
+    position: absolute;
+    /* background-color: #111; */
+}
+
+.main li .nested li a {
+    text-decoration: none;
+    display: block;
+
+}
+
+.main li .nested li a {
+    background-color:rgb(223, 222, 222);
+    color: #111;
+    display: inline-block;
+    width: 200px;
+}
+
+.main li:hover .nested {
+    display: block;
+}
+.main li .nested li a:hover{
+    background-color:#163269;
+    color: white;
+}

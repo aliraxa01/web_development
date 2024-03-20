@@ -1,0 +1,17 @@
+.bg-color{
+    color: blue;
+}
+#color{
+    background: brown;
+    color: white;
+}
+
+div{
+    border: 2px 3px 2px 3px solid red;
+    width: 200px;
+    height: 200px;
+    background-color: azure;
+    border:solid red;
+    border-radius: 5px;
+    border-width: 1px 0px 1px 0px;
+}

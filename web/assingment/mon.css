@@ -1,0 +1,22 @@
+div{
+    border-color: rgba(78, 75, 75, 0.249);
+    border-style:groove;
+    width: 400px;
+
+}
+img{
+    height: 250px;
+    width: 400px;
+}
+p{
+    margin: 10px;
+    color:aqua;
+}
+p1{
+    margin: 30px;
+}
+p2{
+    color: aqua;
+    margin: 100px;
+}
+

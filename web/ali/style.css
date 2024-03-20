@@ -1,0 +1,95 @@
+.div1{
+    width: 22%;
+    height: 370px;
+    display: inline-block;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(spaghetti.jpg);
+    color: white;
+}
+div:hover {
+    background-color: white;
+    background-image: none;
+    color: black;
+}
+.div1 h4{
+    float: right;
+    margin-right: 10px;
+}
+
+.div1 h1{
+    margin-left: 5%;
+    margin-top: 57%;
+}
+
+.div1 p{
+    margin-left: 5%;
+}
+.div1 button{
+    margin-left: 5%;
+    color: white;
+    background-color: rgb(146, 146, 146);
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;
+}
+.div2{
+    width: 22%;
+    height: 370px;
+    border-radius: 10px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    background-image: url(quid\ games.jpg);
+    color: white;
+}
+.div2 h4{
+    float: right;
+    margin-right: 10px;
+}
+.div2 h1{
+    margin-left: 5%;
+    margin-top: 50%;
+}
+.div2 p{
+    margin-left: 5%;   
+}
+.div2 button{
+    margin-left: 5%;
+    color: white;
+    background-color: rgb(146, 146, 146);
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;  
+}
+.div3{
+    display: inline-block;
+    width: 22%;
+    height: 370px;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(the\ best\ of\ bodmin\ moor.jpg);
+    color: white;
+}
+.div3 h4{
+    float: right;
+    margin-right: 10px;
+}
+.div3 h1{
+    margin-left: 5%;
+    margin-top: 50%;
+}
+.div3 p{
+    margin-left: 5%;
+}
+.div3 button{
+    margin-left: 5%;
+    color: white;
+    background-color: rgb(146, 146, 146);
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;  
+}
+.div1 button:hover{
+        background-color: black;
+        color: white;
+    }

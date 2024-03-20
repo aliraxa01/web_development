@@ -1,0 +1,25 @@
+div{
+    width: 200px;
+    height: 200px;
+    border:solid rgb(39, 79, 224);
+    
+    border-style: dashed;
+    text-align: center;
+    padding-top: 5px;
+}
+.one{
+    border-width: 0px 3px 3px 0px;
+    border-radius: 0px 10px 10px 0px;
+}
+.two{
+    border-width: 0px 0px 3px 3px;
+}
+.three{
+    border-width: 0px 3px 3px 0px;
+}
+.four{
+    border-width: 0px 0px 3px 3px;
+}
+.five{
+    border-width: 0px 3px 3px 0px;
+}

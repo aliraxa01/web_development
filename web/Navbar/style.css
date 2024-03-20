@@ -1,0 +1,50 @@
+header{
+    background-color: black;
+}
+ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+
+}
+.dropdown{
+    display: none;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+ul li a:hover{
+    color: red;
+}
+ul li a:active{
+    color: red;
+    background-color: red;
+}
+
+.box{
+    display: inline-block;
+    color: white;
+    width: 200px;
+    height: 200px;
+
+}
+.div-red{
+    background-color: red;
+    width : 500px;
+    height: 500px;
+    position: relative;
+}
+
+.div-green{
+    background-color: green;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.div-blue{
+    background-color: blue;
+    float: right;
+    /* text-align: center; */
+}

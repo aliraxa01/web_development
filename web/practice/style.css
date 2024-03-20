@@ -1,0 +1,79 @@
+
+/* 
+unit
+absoulte value          Relative vaule
+px                      %
+
+*/
+
+body{
+    font-size: 30px;
+}
+.childdiv{
+    
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    /* padding: 20px;
+    margin: 20px; */
+    /* font-size: 3em; */
+    
+    
+}
+.main{
+    /* background-color: antiquewhite; */
+    /* width: 1200px; */
+    /* font-size: 15px; */
+    /* font-size: 3em;
+     */
+     background-image: url("media/bgimg.jpg");
+     background-size: cover;
+     
+     width: 600px;
+    height: 500px;
+    
+}
+
+body{
+    width: 100%;
+    
+    /* 
+    cover
+    contain
+    auto  (default)
+
+    */
+    /* background-color: #715bd5; */
+    /* text-decoration: line-through; */
+    /* width: 20em; */
+    font-size: 2rem;
+}
+.two{
+    background-color: #05eade;
+    
+
+}
+.three{
+    background-color: #f400fe;
+    /* visibility: hidden; */
+    /* width: 1em; */
+
+    /* display: none; */
+
+}
+.four{
+    background-color: #ff008e;
+}
+
+
+/* 
+absulote                relative
+px                         %
+in                          em
+cm                          rem  
+vh/vw                       vmin/vmax
+
+
+
+
+*/

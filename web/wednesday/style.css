@@ -1,0 +1,65 @@
+.div1{
+    background-color:#733fc8 ;
+    width: 35%;
+    height: 220px;
+    border-radius: 10px;
+}
+.div1 img{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 20px 0px 0px 20px;
+}
+.div1 h3{
+    color: white;
+    float: right;
+    margin-right: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* .p1{
+   color:#a775f1 ; 
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   float: right;
+   margin-right: 50%;
+} */
+.div1 .p2{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px 0px 0px 20px; 
+    font-size: 18px;
+}
+.div1 .p3{
+    color: #a775f1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px 0px 0px 20px;
+}
+.div2{
+    background-color:#49556b ;
+    width: 15%;
+    height: 220px;
+    border-radius: 10px;
+}
+.div2 img{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 20px 0px 0px 20px;
+}
+#9491ac
+.div2 h3{
+    color: white;
+    float: right;
+    margin-right: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div2 .p2{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px 0px 0px 20px; 
+    font-size: 15px;
+}
+.div2 .p3{
+    color:#9491ac ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px 0px 0px 20px;
+}

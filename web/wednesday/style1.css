@@ -1,0 +1,102 @@
+.preant{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+    
+}
+.main{
+    width: 75%;
+    height: 500px;
+    /* margin: 0 20px; */
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+}
+.div1{
+    background-color:#d3cae0;
+    width: 25%;
+    height: 270px;
+     border-radius: 10px;   
+}
+.div1 h1{
+    padding: 30px 0px 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div1 p{
+    padding: 0px 0px 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div1 img{
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    width: 60px;
+    height: 60px;
+}
+.div2{
+    background-color:#d3cae0 ;
+    width: 25%;
+    height: 270px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.div2 h1{
+    padding: 30px 0px 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div2 p{
+    padding: 0px 0px 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div2   img{
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    width: 60px;
+    height: 60px;
+}
+.div3{
+    background-color:#d3cae0 ;
+    width: 25%;
+    height: 270px;
+    border-radius: 10px;
+}
+.div3 h1{
+    padding: 30px 0px 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div3 p{
+    padding: 0px 0px 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div3 img{
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    width: 60px;
+    height: 60px;
+}
+.div4{
+    background-color:#d3cae0 ;
+    width: 25%;
+    height: 270px;
+    border-radius: 10px;
+}
+.div4 h1{
+    padding: 30px 0px 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div4 p{
+    padding: 0px 0px 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div4 img{
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    width: 60px;
+    height: 60px;
+}

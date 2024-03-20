@@ -1,0 +1,25 @@
+.main{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.main li {
+    float: left;
+    padding-right: 90px;
+}
+
+.main li a {
+    text-decoration: none;
+    position: relative;
+}
+.nested li{
+    display: none;
+}
+
+.nested li:hover {
+    position: absolute;
+    display: inline-block;
+    width: 200px;
+    background-color: red;
+}

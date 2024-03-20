@@ -1,0 +1,149 @@
+
+
+
+
+
+.one{
+    background-color: tomato;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 2%;
+}
+.one:hover{
+    background-color:white;
+    color:tomato;
+    border-style: solid;
+    border-color: tomato;
+    border-width: 3px;
+    width: 195px;
+}
+.two{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 2%;
+}
+.two:hover{
+    background-color:white;
+    color:orange ;
+    border-color:orange ;
+    border-style: solid;
+    border-width: 3px;
+    width: 195px;
+}
+.three{
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 2%;
+}
+.three:hover{
+    background-color: white;
+    color:dodgerblue ;
+    border-color:dodgerblue ;
+    border-style: solid;
+    border-width: 3px;
+    width: 195px;
+}
+.four{
+    background-color: mediumseagreen;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 2%;
+}
+.four:hover{
+    background-color: white;
+    color:mediumseagreen;
+    border-color:mediumseagreen;
+    border-style: solid;
+    border-width: 3px;
+    width: 195px;
+}
+.five{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 2%;
+}
+.five:hover{
+    background-color: white;
+    color:gray ;
+    border-color:gray ;
+    border-style: solid;
+    border-width: 3px;
+    width: 195px;
+}
+.six{
+    background-color: slateblue;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 2%;
+}
+.six:hover{
+    background-color: white;
+    color:slateblue ;
+    border-color:slateblue ;
+    border-style: solid;
+    border-width: 3px;
+    width: 195px;
+}
+.seven{
+    background-color: violet;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 2%;
+}
+.seven:hover{
+    background-color: white;
+    color:violet;
+    border-color: violet;
+    border-style: solid;
+    border-width: 3px;
+    width: 195px;
+}
+.eight{
+    background-color: lightgray;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 2%;
+}
+.eight:hover{
+    background-color:white;
+    color:lightgray ;
+    border-color:lightgray ;
+    border-style: solid;
+    border-width: 3px;
+    width: 195px;
+}
+
+#first-line{
+    display: flex;
+}
+
+#second-line{
+    display: flex;
+}
